@@ -1,0 +1,7 @@
+etas: !!python/tuple
+- 0.5
+- 1.2
+lr: 0.01
+step_sizes: !!python/tuple
+- 1.0e-06
+- 50

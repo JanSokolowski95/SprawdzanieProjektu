@@ -1,0 +1,4 @@
+eps: 1.0e-06
+lr: 1.0
+rho: 0.9
+weight_decay: 0

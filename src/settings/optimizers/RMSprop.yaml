@@ -1,0 +1,6 @@
+alpha: 0.99
+centered: false
+eps: 1.0e-08
+lr: 0.01
+momentum: 0
+weight_decay: 0

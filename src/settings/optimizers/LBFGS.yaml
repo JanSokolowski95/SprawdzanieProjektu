@@ -1,0 +1,7 @@
+history_size: 100
+line_search_fn: null
+lr: 1
+max_eval: 25
+max_iter: 20
+tolerance_change: 1.0e-09
+tolerance_grad: 1.0e-05

@@ -1,0 +1,4 @@
+initial_accumulator_value: 0
+lr: 0.01
+lr_decay: 0
+weight_decay: 0
